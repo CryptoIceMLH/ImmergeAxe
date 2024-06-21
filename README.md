@@ -1,8 +1,11 @@
 Bitaxe Immersion System - Stay Tuned  - WIP 
 
 3D print STs - All up to date
+
 Arduino Code - WIP
+
 BOM - WIP
+
 Assembly description - WIP
 
 
