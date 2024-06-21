@@ -4,3 +4,4 @@ controller box.stl - box that houses all electronics , cabling, controls
 
 controller box lid.stl - the lid to the electronics box that also holds the pumps speed knob and bitaxe display.
 
+Bitaxe and buck frame.stl - frame to mount bitaxe 200 series and 12V -> 5V(adjusted) Buck converter
