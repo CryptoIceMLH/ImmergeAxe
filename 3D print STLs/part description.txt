@@ -1,0 +1,6 @@
+main frame.stl - as the name suggests, this is the main all in one frame that holds all the parts together. 
+
+controller box.stl - box that houses all electronics , cabling, controls
+
+controller box lid.stl - the lid to the electronics box that also holds the pumps speed knob and bitaxe display.
+
