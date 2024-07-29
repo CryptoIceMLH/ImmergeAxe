@@ -36,4 +36,7 @@ Assembly description - WIP - pics available - pending write up
 ![IMG_20231214_150951](https://github.com/CryptoIceMLH/Bitaxe-Immersion/assets/161954574/c2728995-d32c-49dc-b27b-37c4b1206b14)
 ![IMG_20231214_123920](https://github.com/CryptoIceMLH/Bitaxe-Immersion/assets/161954574/daea2628-918e-4563-8c99-66c2a9c6e4e6)
 
-If you wish to support my work you can donate BTC: 347ePgUhyvztUWVZ4YZBmBLgTn8hxUFNeQ 
+If you wish to support my work you can donate BTC: 
+BTC LN : cryptoice@walletofsatoshi.com
+BTC Onchain: 347ePgUhyvztUWVZ4YZBmBLgTn8hxUFNeQ 
+
