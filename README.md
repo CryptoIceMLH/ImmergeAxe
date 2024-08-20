@@ -1,4 +1,6 @@
-Bitaxe Immersion System - Stay Tuned  - WIP 
+ImmergeAxe
+
+A BitAxe Series (bitaxe.org) Immersion System Accessory 
 
 3D print STs - All up to date
 
@@ -8,6 +10,9 @@ BOM - WIP
 
 Assembly description - WIP - pics available - pending write up
 
+If you wish to support my work you can donate BTC: 
+BTC LN : cryptoice@walletofsatoshi.com
+BTC Onchain: 347ePgUhyvztUWVZ4YZBmBLgTn8hxUFNeQ
 
 ![Bitaxe_Immersion_System](https://github.com/CryptoIceMLH/Bitaxe-Immersion/assets/161954574/6f2b0936-bc9e-41e7-afa6-bcd1b65faf8b)
 
