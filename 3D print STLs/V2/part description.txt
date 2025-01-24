@@ -1,0 +1,7 @@
+main frame.stl - as the name suggests, this is the main all in one frame that holds all the parts together. 
+
+controller box.stl - box that houses all electronics , cabling, controls
+
+controller box lid.stl - the lid to the electronics box that also holds the pumps speed knob, (v2 also has a LED on / off switch ) and bitaxe display.
+
+Bitaxe and buck frame.stl - frame to mount bitaxe 200 series and 12V -> 5V(adjusted) Buck converter
