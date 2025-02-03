@@ -2,13 +2,14 @@ ImmergeAxe
 
 A BitAxe Series (bitaxe.org) Immersion System Accessory 
 
-3D print STLs - All up to date
+3D print STLs 
+Arduino Code 
+BOM
+Wiring Diagram 
+ All up to date
 
-Arduino Code - All up to date
 
-BOM - WIP
 
-Assembly description - WIP
 
 If you wish to support my work you can donate BTC: 
 BTC LN : cryptoice@walletofsatoshi.com
