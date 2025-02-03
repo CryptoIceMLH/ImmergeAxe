@@ -52,3 +52,7 @@ https://www.aliexpress.com/item/1005004167126040.html?spm=a2g0o.order_detail.ord
 1x spool of 22AWG wire in RED , BLACK , YELLOW, BLUE 
 https://www.aliexpress.com/item/1005004167126040.html?spm=a2g0o.order_detail.order_detail_item.11.1847f19c3dqBO6
 8x same as bitaxe mounting screw for the electrical box and cable holder
+1x Arduino nano
+https://www.aliexpress.com/item/1005007094357913.html?spm=a2g0o.order_list.order_list_main.149.469f1802cDCVHb
+1x pair of female and male 6 pin JST connector for data wire harness in tank 
+https://www.aliexpress.com/item/1005005501257848.html?
