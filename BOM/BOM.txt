@@ -1,0 +1,54 @@
+Immerge Axe parts !! 
+
+Sit down this is going to be a long one.. 
+
+lets break this down into some structure : 
+
+Tank : 
+Tank in made of Perspex Clear Sheet
+1 x Main tube is 76.2mm x 76.2mm / 3.2mm thich /200mm tall  square tube ( main tank ) 
+1 x 76mm x 76mm / 3mm thick Perspex Clear Sheet   (rear floor plate to be welded on ) 
+1 x 70mm x 70mm / 3mm thick Perspex Clear Sheet   (hot liquid bafle plate to be welded on ) 
+All Cut Type: Straight with polished ends as you will need to glue ( weld ) tank together.
+I got my parts from plastock.co.uk
+
+You will also need some Plastic Weld i got this : 
+https://www.amazon.co.uk/gp/product/B00QQNNWIW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+and to apply it 
+https://www.amazon.co.uk/gp/product/B099N39JY4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+https://www.amazon.co.uk/gp/product/B0BBB197Z2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+1x 80mm fan 
+https://www.aliexpress.com/item/32263003396.html?spm=a2g0o.order_list.order_list_main.217.6f751802DgME4e
+1x80mm radiator 
+https://www.aliexpress.com/item/32846114986.html?spm=a2g0o.order_list.order_list_main.140.6f751802DgME4e
+1x coolant pump 
+https://www.aliexpress.com/item/4000628329697.html?spm=a2g0o.order_list.order_list_main.182.6f751802DgME4e
+4x spring screws for bitaxe heatsink 
+https://www.aliexpress.com/item/1005001679743964.html?spm=a2g0o.order_list.order_list_main.170.6f751802DgME4e
+a few feet of tubing for the plumbing 
+https://www.aliexpress.com/item/4000574988258.html?spm=a2g0o.order_list.order_list_main.165.6f751802DgME4e
+4x Barb fittings ( 2 for tank , 2 for pump )
+https://www.aliexpress.com/item/1005005513782034.html?spm=a2g0o.order_list.order_list_main.150.6f751802DgME4e
+1x end cap for pump 
+https://www.aliexpress.com/item/1005002539184457.html?spm=a2g0o.order_list.order_list_main.144.6f751802DgME4e
+extra heatsinks for your bitaxe pcb 
+https://www.aliexpress.com/item/32849625854.html?spm=a2g0o.order_list.order_list_main.135.6f751802DgME4e
+2x toggle switches ( 1 for pump on off , 1 for LED on off ) 
+https://www.aliexpress.com/item/1005005989323670.html?spm=a2g0o.order_list.order_list_main.130.6f751802DgME4e
+1x POtentiometer / resistor for PUMP PWM control 100k
+https://www.aliexpress.com/item/1005007303099321.html?spm=a2g0o.order_list.order_list_main.125.6f751802DgME4e
+1 x 12v DC supply jack socket ( watch out what size you get to marry to your psu pin ) 
+https://www.aliexpress.com/item/1005002401496504.html?spm=a2g0o.order_list.order_list_main.110.6f751802DgME4e
+2x 80mm grils for your fan and rad 
+https://www.aliexpress.com/item/32866623989.html?spm=a2g0o.order_list.order_list_main.95.6f751802DgME4e
+1x 12v to 5v buck converter for mining supply
+https://www.aliexpress.com/item/1005005737177802.html?spm=a2g0o.order_list.order_list_main.212.6f751802DgME4e
+1x 12v to 5v buck converter for all other functions 
+https://www.aliexpress.com/item/1005006711605548.html?spm=a2g0o.order_list.order_list_main.160.6f751802DgME4e
+1x pair of Deans connector for wiring harners at Tank lid join
+https://www.aliexpress.com/item/1005006363245473.html?spm=a2g0o.order_list.order_list_main.155.6f751802DgME4e
+1x spool of 26AWG wire in RED , BLACK , YELLOW, BLUE 
+https://www.aliexpress.com/item/1005004167126040.html?spm=a2g0o.order_detail.order_detail_item.3.1847f19c3dqBO6
+1x spool of 22AWG wire in RED , BLACK , YELLOW, BLUE 
+https://www.aliexpress.com/item/1005004167126040.html?spm=a2g0o.order_detail.order_detail_item.11.1847f19c3dqBO6
+8x same as bitaxe mounting screw for the electrical box and cable holder
