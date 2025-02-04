@@ -1,22 +1,31 @@
-ImmergeAxe
+# **ImmergeAxe**
 
-A BitAxe Series (bitaxe.org) Immersion System Accessory 
+## **A <a href="https://bitaxe.org/" target="_blank">Bitaxe</a> Series Immersion System Accessory**
 
-3D print STLs 
-Arduino Code 
-BOM
-Wiring Diagram 
- All up to date
+### What's in this Repo
+
+[x] 3D print STLs
+
+[x] Arduino Code
+
+[x] BOM
+
+[x] Wiring Diagram
+
+[x] All up to date
+#
+
+**Buy me a coffee**
+
+If you wish to support my work you can donate with BTC: 
+
+⚡ BTC LN : cryptoice@walletofsatoshi.com
+
+⚡ BTC Onchain: 347ePgUhyvztUWVZ4YZBmBLgTn8hxUFNeQ
 
 
-
-
-If you wish to support my work you can donate BTC: 
-BTC LN : cryptoice@walletofsatoshi.com
-BTC Onchain: 347ePgUhyvztUWVZ4YZBmBLgTn8hxUFNeQ
 
 ![Bitaxe_Immersion_System](https://github.com/CryptoIceMLH/Bitaxe-Immersion/assets/161954574/6f2b0936-bc9e-41e7-afa6-bcd1b65faf8b)
-
 ![IMG_20240214_170813](https://github.com/CryptoIceMLH/Bitaxe-Immersion/assets/161954574/9bcde559-6182-420a-8e44-089f3a01cf58)
 ![IMG_20240125_200832](https://github.com/CryptoIceMLH/Bitaxe-Immersion/assets/161954574/57c5c046-13ad-4cd1-94c2-e93c4c5364a4)
 ![IMG_20231223_195901](https://github.com/CryptoIceMLH/Bitaxe-Immersion/assets/161954574/3ca8fa7e-da97-4481-a1a4-546e9cac5c30)
