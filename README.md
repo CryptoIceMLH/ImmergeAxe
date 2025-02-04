@@ -4,15 +4,15 @@
 
 ### What's in this Repo
 
-[x] 3D print STLs
+- [x] 3D print STLs
 
-[x] Arduino Code
+- [x] Arduino Code
 
-[x] BOM
+- [x] BOM
 
-[x] Wiring Diagram
+- [x] Wiring Diagram
 
-[x] All up to date
+- [x] All up to date
 #
 
 **Buy me a coffee**
